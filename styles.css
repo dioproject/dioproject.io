@@ -1,0 +1,46 @@
+body {
+	background: url("background.jpg");
+	font: "Arial";
+}
+
+#container {
+	background-color: grey;
+	border: solid white;
+	border-radius: 15px;
+	margin: 100px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+	width: 400px;
+	height: 220px;
+	float: center;
+}
+
+#pertama {
+	font-family: time news roman;
+	font-style: italic;
+	font-size: 26px;
+	text-align: center;
+}
+
+.about {
+	text-align: center;
+}
+
+.paragraph {
+	text-align: justify;
+}
+
+.profile {
+
+}
+
+.pp {
+	border: solid palegreen;
+	border-radius: 20px;
+	float: right;
+	width: 75px;
+	height: 110px;
+	padding: 0 auto;
+}
